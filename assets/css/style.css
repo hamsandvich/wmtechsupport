@@ -202,3 +202,15 @@ section { padding: 72px 0; }
   .footer-cta { margin-left: 0; }
   section { padding: 52px 0; }
 }
+
+/* ---------- blog ---------- */
+.card-date { color: var(--muted); font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; }
+.post-page { background: #fff; padding: 64px 0 80px; }
+.post-back { margin-bottom: 18px; }
+.post-back a { color: var(--muted); }
+.post-page h1 { margin-bottom: 10px; }
+.post-byline { color: var(--muted); margin-bottom: 28px; }
+.post-hero { width: 100%; border-radius: 12px; margin-bottom: 32px; }
+.post-content h2 { margin: 34px 0 14px; }
+.post-content img { max-width: 100%; height: auto; border-radius: 8px; margin: 18px 0; }
+.post-nav { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 44px; padding-top: 28px; border-top: 1px solid #e5e5e5; }
